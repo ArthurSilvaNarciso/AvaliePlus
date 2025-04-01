@@ -102,4 +102,82 @@ section {
 nav {
     display: none;
 }
+body {
+    background-color: #333333; /* Fundo cinza escuro */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000000; /* Fundo preto para o header */
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 350px; /* Ajuste conforme necessário */
+    height: auto;
+}
+
+.movie-card img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.movies-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+    background-color: #222222; /* Fundo cinza escuro para a área dos filmes */
+    border-radius: 10px;
+}
+
+.movie-card {
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    width: 220px;
+    color: #333333;
+    transition: transform 0.3s;
+}
+
+    .movie-card:hover {
+        transform: scale(1.05);
+    }
+
+    /* Estilos para os botões (Avaliar e Trailer) */
+    .movie-card a {
+        display: block;
+        margin-top: 10px;
+        padding: 10px;
+        background-color: transparent; /* Fundo transparente */
+        color: #0099ff; /* Cor azul claro para o texto */
+        text-decoration: none;
+        border: 2px solid #0099ff; /* Borda azul claro */
+        border-radius: 5px;
+        font-weight: bold;
+        text-align: center;
+        width: 100%;
+        box-sizing: border-box;
+        transition: background-color 0.3s, color 0.3s;
+    }
+
+        .movie-card a:hover {
+            background-color: #0099ff; /* Cor de fundo azul claro no hover */
+            color: white; /* Cor do texto branca no hover */
+        }
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #000000;
+    color: #ffffff;
+}
 
