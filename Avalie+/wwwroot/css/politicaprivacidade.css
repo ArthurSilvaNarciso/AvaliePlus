@@ -1,0 +1,37 @@
+﻿/* Definição de cores para modo claro e escuro */
+:root {
+    --background-light: #ffffff;
+    --text-light: #333333;
+    --title-light: #000000;
+    --background-dark: #121212;
+    --text-dark: #dddddd;
+    --title-dark: #ffffff;
+    --privacy-bg-light: #ffffff; /* Fundo branco para política de privacidade */
+    --privacy-bg-dark: #1e1e1e; /* Fundo mais escuro no modo escuro */
+}
+
+/* Estilos padrão */
+body {
+    background-color: var(--background-light);
+    color: var(--text-light);
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--title-light);
+}
+
+/* Área de Política de Privacidade */
+.privacy-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: var(--privacy-bg-light);
+    color: var(--text-light);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.
