@@ -12,17 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q3kimnofjm"},{"Name":"integrity","Value":"sha256-RghgpwFO6bozjZorBLXKdpcWyZD\u002BOjaByw1BOgspMEs="},{"Name":"label","Value":"_content/Avalie\u002B/Avalie\u002B.bundle.scp.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1125"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022RghgpwFO6bozjZorBLXKdpcWyZD\u002BOjaByw1BOgspMEs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 17:54:44 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Avalie+/css/login.2mokjbeova.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\login.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2mokjbeova"},{"Name":"integrity","Value":"sha256-mphaQ9snJ/AQzgfYo5Kk2QoiKD1WiiiS299SpSVZ7Mc="},{"Name":"label","Value":"_content/Avalie\u002B/css/login.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1148"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mphaQ9snJ/AQzgfYo5Kk2QoiKD1WiiiS299SpSVZ7Mc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Apr 2025 01:56:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Avalie+/css/login.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\login.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0TZsgiMr8LkRdvsRdfz\u002BUo4ZfX\u002B3j1qJ2ZBkTxZHu58="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"698"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220TZsgiMr8LkRdvsRdfz\u002BUo4ZfX\u002B3j1qJ2ZBkTxZHu58=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 20:03:24 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Avalie+/css/login.pi3ksvbz27.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\login.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pi3ksvbz27"},{"Name":"integrity","Value":"sha256-0TZsgiMr8LkRdvsRdfz\u002BUo4ZfX\u002B3j1qJ2ZBkTxZHu58="},{"Name":"label","Value":"_content/Avalie\u002B/css/login.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"698"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220TZsgiMr8LkRdvsRdfz\u002BUo4ZfX\u002B3j1qJ2ZBkTxZHu58=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 20:03:24 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mphaQ9snJ/AQzgfYo5Kk2QoiKD1WiiiS299SpSVZ7Mc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1148"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mphaQ9snJ/AQzgfYo5Kk2QoiKD1WiiiS299SpSVZ7Mc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Apr 2025 01:56:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Avalie+/css/politicaprivacidade.4m8fl4dgju.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\politicaprivacidade.css'))</AssetFile>

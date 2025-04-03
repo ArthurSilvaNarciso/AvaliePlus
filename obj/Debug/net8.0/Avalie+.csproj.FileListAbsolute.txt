@@ -1,0 +1,8 @@
+C:\Users\tutun\Desktop\AvaliePlus-master\obj\Debug\net8.0\Avalie+.csproj.AssemblyReference.cache
+C:\Users\tutun\Desktop\AvaliePlus-master\obj\Debug\net8.0\Avalie+.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutun\Desktop\AvaliePlus-master\obj\Debug\net8.0\Avalie+.AssemblyInfoInputs.cache
+C:\Users\tutun\Desktop\AvaliePlus-master\obj\Debug\net8.0\Avalie+.AssemblyInfo.cs
+C:\Users\tutun\Desktop\AvaliePlus-master\obj\Debug\net8.0\Avalie+.csproj.CoreCompileInputs.cache
+C:\Users\tutun\Desktop\AvaliePlus-master\obj\Debug\net8.0\Avalie+.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tutun\Desktop\AvaliePlus-master\obj\Debug\net8.0\Avalie+.RazorAssemblyInfo.cache
+C:\Users\tutun\Desktop\AvaliePlus-master\obj\Debug\net8.0\Avalie+.RazorAssemblyInfo.cs

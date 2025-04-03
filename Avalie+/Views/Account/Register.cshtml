@@ -1,0 +1,89 @@
+﻿@{
+    ViewBag.Title = "Cadastro - Avalie+";
+    Layout = null; /* Se quiser evitar o Layout padrão */
+}
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro - Avalie+</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/login.css" asp-append-version="true">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background-color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Centraliza verticalmente */
+            width: 100vw;  /* Garante o uso total da largura */
+        }
+        .register-container {
+            background: #222;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+            text-align: center;
+            color: white;
+            width: 380px; /* Mesma largura da tela de login */
+        }
+        .register-container h2 {
+            margin-bottom: 20px;
+        }
+        .register-container input {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .register-container button {
+            width: 100%;
+            padding: 12px;
+            background-color: #0099ff;
+            border: none;
+            color: white;
+            font-size: 18px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .register-container button:hover {
+            background-color: #0077cc;
+        }
+        .register-container a {
+            display: block;
+            margin-top: 10px;
+            color: #0099ff;
+            text-decoration: none;
+            font-size: 14px;
+        }
+        .register-container a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="register-container">
+        <h2>Cadastro</h2>
+        @if (ViewBag.Error != null)
+        {
+                    <div style="color: red;">@ViewBag.Error</div>
+        }
+        <form method="post" action="/Account/Register">
+            <input type="text" name="username" placeholder="Usuário" required>
+            <input type="email" name="email" placeholder="E-mail" required>
+            <input type="password" name="password" placeholder="Senha" required>
+            <input type="password" name="confirmPassword" placeholder="Confirme a senha" required>
+            <button type="submit">Cadastrar</button>
+        </form>
+        <a href="/Account/Login">Já tem uma conta? Faça login</a>
+    </div>
+</body>
+</html>

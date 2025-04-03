@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xqhgbUXlYCh6i5VzcA3rRCgrgzv32EAf9YHm9nATz4w=",
+  "Hash": "+1LcsIfF+wKNG1AXVTmvMIGXrIHbr5SU+5SKXhV4uAA=",
   "Source": "Avalie+",
   "BasePath": "_content/Avalie+",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pi3ksvbz27",
-      "Integrity": "0TZsgiMr8LkRdvsRdfz+Uo4ZfX+3j1qJ2ZBkTxZHu58=",
+      "Fingerprint": "2mokjbeova",
+      "Integrity": "mphaQ9snJ/AQzgfYo5Kk2QoiKD1WiiiS299SpSVZ7Mc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
@@ -1548,6 +1548,51 @@
       ]
     },
     {
+      "Route": "css/login.2mokjbeova.css",
+      "AssetFile": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie+\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mphaQ9snJ/AQzgfYo5Kk2QoiKD1WiiiS299SpSVZ7Mc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 01:56:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2mokjbeova"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mphaQ9snJ/AQzgfYo5Kk2QoiKD1WiiiS299SpSVZ7Mc="
+        }
+      ]
+    },
+    {
       "Route": "css/login.css",
       "AssetFile": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie+\\wwwroot\\css\\login.css",
       "Selectors": [],
@@ -1558,7 +1603,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "698"
+          "Value": "1148"
         },
         {
           "Name": "Content-Type",
@@ -1566,11 +1611,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0TZsgiMr8LkRdvsRdfz+Uo4ZfX+3j1qJ2ZBkTxZHu58=\""
+          "Value": "\"mphaQ9snJ/AQzgfYo5Kk2QoiKD1WiiiS299SpSVZ7Mc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:03:24 GMT"
+          "Value": "Thu, 03 Apr 2025 01:56:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1580,52 +1625,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0TZsgiMr8LkRdvsRdfz+Uo4ZfX+3j1qJ2ZBkTxZHu58="
-        }
-      ]
-    },
-    {
-      "Route": "css/login.pi3ksvbz27.css",
-      "AssetFile": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie+\\wwwroot\\css\\login.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "698"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0TZsgiMr8LkRdvsRdfz+Uo4ZfX+3j1qJ2ZBkTxZHu58=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:03:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pi3ksvbz27"
-        },
-        {
-          "Name": "label",
-          "Value": "css/login.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0TZsgiMr8LkRdvsRdfz+Uo4ZfX+3j1qJ2ZBkTxZHu58="
+          "Value": "sha256-mphaQ9snJ/AQzgfYo5Kk2QoiKD1WiiiS299SpSVZ7Mc="
         }
       ]
     },
