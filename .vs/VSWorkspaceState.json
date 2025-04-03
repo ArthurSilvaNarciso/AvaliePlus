@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Avalie\u002B",
+    "\\Avalie\u002B\\Controllers",
     "\\Avalie\u002B\\Views",
     "\\Avalie\u002B\\Views\\Account",
     "\\Avalie\u002B\\Views\\Home"
   ],
-  "SelectedNode": "\\Avalie\u002B\\Views\\Account\\Login.cshtml",
+  "SelectedNode": "\\Avalie\u002B\\Controllers\\AccountController.cs",
   "PreviewInSolutionExplorer": false
 }

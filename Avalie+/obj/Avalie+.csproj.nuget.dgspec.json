@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie+\\Avalie+.csproj": {}
+    "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\Avalie+.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie+\\Avalie+.csproj": {
+    "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\Avalie+.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie+\\Avalie+.csproj",
+        "projectUniqueName": "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\Avalie+.csproj",
         "projectName": "Avalie+",
-        "projectPath": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie+\\Avalie+.csproj",
+        "projectPath": "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\Avalie+.csproj",
         "packagesPath": "C:\\Users\\tutun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie+\\obj\\",
+        "outputPath": "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

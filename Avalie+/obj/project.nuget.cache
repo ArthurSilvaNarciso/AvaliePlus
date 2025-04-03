@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O4aAalyMd3k=",
+  "dgSpecHash": "O4ZkGZVgUd0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie+\\Avalie+.csproj",
+  "projectFilePath": "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\Avalie+.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tutun\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\tutun\\.nuget\\packages\\microsoft.aspnet.mvc\\5.3.0\\microsoft.aspnet.mvc.5.3.0.nupkg.sha512",

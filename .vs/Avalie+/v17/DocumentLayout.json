@@ -1,85 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\",
+  "WorkspaceRootPath": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\views\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\views\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\views\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\views\\home\\arquivocss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\views\\home\\arquivocss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\views\\home\\arquivocss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\wwwroot\\css\\politicaprivacidade.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\wwwroot\\css\\politicaprivacidade.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\wwwroot\\css\\politicaprivacidade.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\desktop\\avalieplus-master\\avalie\u002B\\wwwroot\\css\\politicaprivacidade.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|c:\\users\\tutun\\onedrive\\\u00E1rea de trabalho\\avalieplus-master\\avalie\u002B\\wwwroot\\css\\politicaprivacidade.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62140C8-2F81-44F7-958D-2B3A7BF4AB22}|Avalie\u002B\\Avalie\u002B.csproj|solutionrelative:avalie\u002B\\wwwroot\\css\\politicaprivacidade.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 83,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,102 +98,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Avalie\u002B\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Models\\User.cs",
-              "RelativeToolTip": "Avalie\u002B\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T02:03:51.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Program.cs",
-              "RelativeDocumentMoniker": "Avalie\u002B\\Program.cs",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Program.cs",
-              "RelativeToolTip": "Avalie\u002B\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T19:29:45.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Avalie\u002B\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Avalie\u002B\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAkwFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T01:51:38.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\appsettings.json",
               "RelativeDocumentMoniker": "Avalie\u002B\\appsettings.json",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\appsettings.json",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\appsettings.json",
               "RelativeToolTip": "Avalie\u002B\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-01T11:09:19.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T11:09:19.449Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "login.css",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\login.css",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\login.css",
               "RelativeDocumentMoniker": "Avalie\u002B\\wwwroot\\css\\login.css",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\login.css",
               "RelativeToolTip": "Avalie\u002B\\wwwroot\\css\\login.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-02T20:02:53.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T20:02:53.351Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Avalie\u002B\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Avalie\u002B\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAcwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T19:21:22.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T19:21:22.254Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Avalie\u002B\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Avalie\u002B\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T21:56:59.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T21:56:59.731Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Avalie\u002B\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Avalie\u002B\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -203,9 +160,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Avalie\u002B\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Avalie\u002B\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,37 +171,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Avalie\u002B\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Avalie\u002B\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T01:51:38.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Program.cs",
+              "RelativeDocumentMoniker": "Avalie\u002B\\Program.cs",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Program.cs",
+              "RelativeToolTip": "Avalie\u002B\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:29:45.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Avalie\u002B\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Models\\User.cs",
+              "RelativeToolTip": "Avalie\u002B\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:03:51.699Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Avalie\u002B\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Avalie\u002B\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T02:05:02.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T02:05:02.075Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Avalie\u002B\\Views\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "Avalie\u002B\\Views\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T02:38:53.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T02:38:53.829Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Avalie\u002B\\Views\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Account\\Login.cshtml.cs",
               "RelativeToolTip": "Avalie\u002B\\Views\\Account\\Login.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,9 +245,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ArquivoCSS.cs",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Home\\ArquivoCSS.cs",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Home\\ArquivoCSS.cs",
               "RelativeDocumentMoniker": "Avalie\u002B\\Views\\Home\\ArquivoCSS.cs",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Home\\ArquivoCSS.cs",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Home\\ArquivoCSS.cs",
               "RelativeToolTip": "Avalie\u002B\\Views\\Home\\ArquivoCSS.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -266,9 +257,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Avalie\u002B\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Avalie\u002B\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAKYAAAAAAAAAAAAAwLcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -278,9 +269,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Avalie\u002B\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Avalie\u002B\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAJwAAAAAAAAAAAAwwLIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -290,9 +281,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Avalie\u002B\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Avalie\u002B\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAEEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -302,9 +293,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "politicaprivacidade.css",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\politicaprivacidade.css",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\politicaprivacidade.css",
               "RelativeDocumentMoniker": "Avalie\u002B\\wwwroot\\css\\politicaprivacidade.css",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\politicaprivacidade.css",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\politicaprivacidade.css",
               "RelativeToolTip": "Avalie\u002B\\wwwroot\\css\\politicaprivacidade.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -314,9 +305,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "politicaprivacidade.css",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\politicaprivacidade.css",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\politicaprivacidade.css",
               "RelativeDocumentMoniker": "Avalie\u002B\\wwwroot\\css\\politicaprivacidade.css",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\politicaprivacidade.css",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\wwwroot\\css\\politicaprivacidade.css",
               "RelativeToolTip": "Avalie\u002B\\wwwroot\\css\\politicaprivacidade.css",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -326,9 +317,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Avalie\u002B\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Avalie\u002B\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -338,9 +329,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Avalie\u002B\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\tutun\\Desktop\\AvaliePlus-master\\Avalie\u002B\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\tutun\\OneDrive\\\u00C1rea de Trabalho\\AvaliePlus-master\\Avalie\u002B\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Avalie\u002B\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

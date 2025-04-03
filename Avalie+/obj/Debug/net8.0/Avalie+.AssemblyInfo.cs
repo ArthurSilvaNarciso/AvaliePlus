@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Avalie+")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55acfe8c570cc551f92fbc5ce097d38bbfbaab02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92aa1c2bf4a50c31bbf52bc10135345014c94add")]
 [assembly: System.Reflection.AssemblyProductAttribute("Avalie+")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Avalie+")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
