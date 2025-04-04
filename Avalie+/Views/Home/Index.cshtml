@@ -1,178 +1,67 @@
 ﻿@{
-    ViewData["Title"] = "Página Inicial";
+    ViewData["Title"] = "Início";
+    Layout = "_Layout";
 }
 
-<!DOCTYPE html>
-<html lang="pt">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewData["Title"] - Avalie+</title>
+<section class="movies-grid">
+    <article class="movie-card">
+        <img src="https://s2.glbimg.com/szb1-_IWvdZoDm1mjIXZkgs8Ze8=/e.glbimg.com/og/ed/f/original/2018/02/22/annihilation_vertical-main_pre_bpo.jpg" alt="Aniquilação">
+        <h2>Aniquilação</h2>
+        <a href="#" class="btn-avaliar">Avaliar</a>
+        <a href="https://www.youtube.com/watch?v=4VHhUYx8mQ4" target="_blank" class="btn-trailer">Trailer</a>
+    </article>
+    <article class="movie-card">
+        <img src="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2019/12/17/modaaviaovertical150020191216-6437-oi4ux3.jpg" alt="Modo Avião">
+        <h2>Modo Avião</h2>
+        <a href="#" class="btn-avaliar">Avaliar</a>
+        <a href="https://www.youtube.com/watch?v=aywJ39-0l9I" target="_blank" class="btn-trailer">Trailer</a>
+    </article>
+    <article class="movie-card">
+        <img src="https://i.pinimg.com/236x/59/60/ec/5960ecfab13c2b17fc1ab6fda09a9eae.jpg" alt="Lucifer">
+        <h2>Lucifer</h2>
+        <a href="#" class="btn-avaliar">Avaliar</a>
+        <a href="https://www.youtube.com/watch?v=X4bF_quwNtw" target="_blank" class="btn-trailer">Trailer</a>
+    </article>
+    <article class="movie-card">
+        <img src="https://cinema10.com.br/upload/filmes/filmes_15843_resgate-2-filme-poster-chris-hemsworth.jpg?default=poster" alt="Resgate 2">
+        <h2>Resgate 2</h2>
+        <a href="#" class="btn-avaliar">Avaliar</a>
+        <a href="https://www.youtube.com/watch?v=7ZzP1vgk5nA" target="_blank" class="btn-trailer">Trailer</a>
+    </article>
+    <article class="movie-card">
+        <img src="https://www.papodecinema.com.br/wp-content/uploads/2022/12/20221220-natal-outra-vez-papo-de-cinema-cartaz.png" alt="Natal Outra Vez?">
+        <h2>Natal Outra Vez?</h2>
+        <a href="#" class="btn-avaliar">Avaliar</a>
+        <a href="https://www.youtube.com/watch?v=nHItHG4fdH4" target="_blank" class="btn-trailer">Trailer</a>
+    </article>
+    <article class="movie-card">
+        <img src="https://cinema10.com.br/upload/featuredImage.php?url=https%3A%2F%2Fcinema10.com.br%2Fupload%2Ffilmes%2Ffilmes_15606_113.jpg" alt="Cidade Perdida">
+        <h2>Cidade Perdida</h2>
+        <a href="#" class="btn-avaliar">Avaliar</a>
+        <a href="https://www.youtube.com/watch?v=d1UyjBcLODw" target="_blank" class="btn-trailer">Trailer</a>
+    </article>
+    <article class="movie-card">
+        <img src="https://cinema10.com.br/upload/filmes/filmes_1485_110.jpg?default=poster" alt="Pânico">
+        <h2>Pânico</h2>
+        <a href="#" class="btn-avaliar">Avaliar</a>
+        <a href="https://www.youtube.com/watch?v=swzTZ2mQypM" target="_blank" class="btn-trailer">Trailer</a>
+    </article>
+</section>
 
-    <!-- Adicionando o link da folha de estilo -->
-    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true">
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-
-    <style>
-        body {
-            background-color: #333333; /* Fundo cinza escuro */
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #000000; /* Fundo preto para o header */
-            text-align: center;
-            padding: 20px;
-        }
-        .logo {
-            width: 350px; /* Ajuste conforme necessário */
-            height: auto;
-        }
-        .movie-card img {
-            width: 200px;
-            height: 300px;
-            object-fit: cover;
-            border-radius: 10px;
-        }
-        .movies-grid {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            padding: 20px;
-            gap: 20px;
-            background-color: #222222; /* Fundo cinza escuro para a área dos filmes */
-            border-radius: 10px;
-        }
-        .movie-card {
-            background: #ffffff;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            margin: 15px;
-            padding: 15px;
-            text-align: center;
-            width: 220px;
-            color: #333333;
-            transition: transform 0.3s;
-        }
-        .movie-card:hover {
-            transform: scale(1.05);
-        }
-
-        /* Estilos para os botões (Avaliar e Trailer) */
-        .movie-card a {
-            display: block;
-            margin-top: 10px;
-            padding: 10px;
-            background-color: transparent; /* Fundo transparente */
-            color: #0099ff; /* Cor azul claro para o texto */
-            text-decoration: none;
-            border: 2px solid #0099ff; /* Borda azul claro */
-            border-radius: 5px;
-            font-weight: bold;
-            text-align: center;
-            width: 100%;
-            box-sizing: border-box;
-            transition: background-color 0.3s, color 0.3s;
-        }
-
-        .movie-card a:hover {
-            background-color: #0099ff; /* Cor de fundo azul claro no hover */
-            color: white; /* Cor do texto branca no hover */
-        }
-
-        footer {
-            text-align: center;
-            padding: 10px;
-            background-color: #000000;
-            color: #ffffff;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <img src="/img/av+.png" alt="Logo Avalie+" class="logo">
-    </header>
-    <nav>
-        <ul>
-            <li><a href="#">Início</a></li>
-            <li><a href="#sobre">Sobre Nós</a></li>
-            <li><a href="#politica">Política de Privacidade</a></li>
-        </ul>
-    </nav>
-    <main>
-        <section class="movies-grid">
-            <article class="movie-card">
-                <img src="https://s2.glbimg.com/szb1-_IWvdZoDm1mjIXZkgs8Ze8=/e.glbimg.com/og/ed/f/original/2018/02/22/annihilation_vertical-main_pre_bpo.jpg" alt="Aniquilação">
-                <h2>Aniquilação</h2>
-                <a href="#">Avaliar</a>
-                <a href="https://www.youtube.com/watch?v=4VHhUYx8mQ4" target="_blank">Trailer</a> <!-- Link do trailer -->
-            </article>
-
-            <article class="movie-card">
-                <img src="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2019/12/17/modaaviaovertical150020191216-6437-oi4ux3.jpg" alt="Modo Avião">
-                <h2>Modo Avião</h2>
-                <a href="#">Avaliar</a>
-                <a href="https://www.youtube.com/watch?v=aywJ39-0l9I" target="_blank">Trailer</a> <!-- Link do trailer -->
-            </article>
-
-            <article class="movie-card">
-                <img src="https://i.pinimg.com/236x/59/60/ec/5960ecfab13c2b17fc1ab6fda09a9eae.jpg" alt="Lucifer">
-                <h2>Lucifer</h2>
-                <a href="#">Avaliar</a>
-                <a href="https://www.youtube.com/watch?v=X4bF_quwNtw" target="_blank">Trailer</a> <!-- Link do trailer -->
-            </article>
-
-            <article class="movie-card">
-                <img src="https://cinema10.com.br/upload/filmes/filmes_15843_resgate-2-filme-poster-chris-hemsworth.jpg?default=poster" alt="Resgate 2">
-                <h2>Resgate 2</h2>
-                <a href="#">Avaliar</a>
-                <a href="https://www.youtube.com/watch?v=7ZzP1vgk5nA" target="_blank">Trailer</a> <!-- Link do trailer -->
-            </article>
-
-            <article class="movie-card">
-                <img src="https://i.pinimg.com/736x/f9/6c/01/f96c01f374d799adc9eede501c3144dd.jpg" alt="Sex Education">
-                <h2>Sex Education</h2>
-                <a href="#">Avaliar</a>
-                <a href="https://www.youtube.com/watch?v=ccp8T3Me4f4" target="_blank">Trailer</a> <!-- Link do trailer -->
-            </article>
-
-            <article class="movie-card">
-                <img src="https://midias.imagemfilmes.com.br/capas/9bb5d2ea-6328-46d5-82d9-a0b4da2bb2b3_m.jpg?2021-10-25T17:04:23.611260" alt="Alerta Vermelho">
-                <h2>Alerta Vermelho</h2>
-                <a href="#">Avaliar</a>
-                <a href="https://www.youtube.com/watch?v=5JQuYpBZarc" target="_blank">Trailer</a> <!-- Link do trailer -->
-            </article>
-
-            <article class="movie-card">
-                <img src="https://br.web.img3.acsta.net/pictures/22/09/20/15/51/1507365.jpg" alt="Sorria">
-                <h2>Sorria</h2>
-                <a href="#">Avaliar</a>
-                <a href="https://www.youtube.com/watch?v=lztr0VOb-_s" target="_blank">Trailer</a> <!-- Link do trailer -->
-            </article>
-
-            <article class="movie-card">
-                <img src="https://i.pinimg.com/736x/21/af/fa/21affa04873f2e3f17a89101dbf1c15e.jpg" alt="Day Shift">
-                <h2>Day Shift</h2>
-                <a href="#">Avaliar</a>
-                <a href="https://www.youtube.com/watch?v=GN_IwBptKi4" target="_blank">Trailer</a> <!-- Link do trailer -->
-            </article>
-
-            <article class="movie-card">
-                <img src="https://i.pinimg.com/474x/2d/59/da/2d59da0f0dd170c51b6ec08a60a52aaa.jpg" alt="Ragnarok">
-                <h2>Ragnarok</h2>
-                <a href="#">Avaliar</a>
-                <a href="https://www.youtube.com/watch?v=i2qDt5D8RSs" target="_blank">Trailer</a> <!-- Link do trailer -->
-            </article>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2025 Avalie+ - Todos os direitos reservados</p>
-    </footer>
-
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-</body>
-</html>
+<!-- Popup de Avaliação -->
+<div id="popup" class="popup">
+    <div class="popup-content">
+        <span class="fechar-popup">&times;</span>
+        <h3>Avalie o filme</h3>
+        <div class="rating">
+            <span>&#9733;</span>
+            <span>&#9733;</span>
+            <span>&#9733;</span>
+            <span>&#9733;</span>
+            <span>&#9733;</span>
+        </div>
+        <p id="rating-value">Nota: 0</p>
+        <textarea id="reviewText" placeholder="Escreva seu comentário..."></textarea>
+        <button onclick="submitReview()">Enviar</button>
+    </div>
+</div>

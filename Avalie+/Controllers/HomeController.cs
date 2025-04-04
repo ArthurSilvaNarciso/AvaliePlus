@@ -11,5 +11,10 @@ namespace AvalieMais.Controllers
             ViewBag.Username = User.Identity?.Name; // Passa o nome do usuário para a View
             return View();
         }
+        public IActionResult PoliticaPrivacidade()
+        {
+            return View();
+        }
+
     }
 }

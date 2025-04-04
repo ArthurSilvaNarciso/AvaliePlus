@@ -3,9 +3,12 @@
     "",
     "\\Avalie\u002B",
     "\\Avalie\u002B\\Controllers",
+    "\\Avalie\u002B\\Data",
+    "\\Avalie\u002B\\Migrations",
     "\\Avalie\u002B\\Views",
     "\\Avalie\u002B\\Views\\Account",
     "\\Avalie\u002B\\Views\\Home"
   ],
+  "SelectedNode": "\\Avalie\u002B\\Views\\Account\\Register.cshtml",
   "PreviewInSolutionExplorer": false
 }

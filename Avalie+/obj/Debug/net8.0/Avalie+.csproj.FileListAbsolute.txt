@@ -371,3 +371,4 @@ C:\Users\tutun\OneDrive\Área de Trabalho\AvaliePlus-master\Avalie+\obj\Debug\ne
 C:\Users\tutun\OneDrive\Área de Trabalho\AvaliePlus-master\Avalie+\obj\Debug\net8.0\Avalie+.pdb
 C:\Users\tutun\OneDrive\Área de Trabalho\AvaliePlus-master\Avalie+\obj\Debug\net8.0\Avalie+.genruntimeconfig.cache
 C:\Users\tutun\OneDrive\Área de Trabalho\AvaliePlus-master\Avalie+\obj\Debug\net8.0\ref\Avalie+.dll
+C:\Users\tutun\OneDrive\Área de Trabalho\AvaliePlus-master\Avalie+\obj\Debug\net8.0\Avalie+.sourcelink.json

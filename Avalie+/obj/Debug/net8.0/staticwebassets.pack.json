@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\img\\av+.png"
     },
     {
+      "Id": "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
       "Id": "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
