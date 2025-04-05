@@ -1,3 +1,4 @@
+wwwroot\css\admin.css
 wwwroot\css\login.css
 wwwroot\css\politicaprivacidade.css
 wwwroot\css\site.css

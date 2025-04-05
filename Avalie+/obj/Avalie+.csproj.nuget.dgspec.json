@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\Avalie+.csproj": {}
+    "C:\\Users\\Nicolas\\AvaliePlus\\Avalie+\\Avalie+.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\Avalie+.csproj": {
+    "C:\\Users\\Nicolas\\AvaliePlus\\Avalie+\\Avalie+.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\Avalie+.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolas\\AvaliePlus\\Avalie+\\Avalie+.csproj",
         "projectName": "Avalie+",
-        "projectPath": "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\Avalie+.csproj",
-        "packagesPath": "C:\\Users\\tutun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tutun\\OneDrive\\Área de Trabalho\\AvaliePlus-master\\Avalie+\\obj\\",
+        "projectPath": "C:\\Users\\Nicolas\\AvaliePlus\\Avalie+\\Avalie+.csproj",
+        "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicolas\\AvaliePlus\\Avalie+\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tutun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

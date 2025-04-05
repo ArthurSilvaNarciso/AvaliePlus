@@ -55,7 +55,8 @@ namespace AvalieMais.Controllers
             {
                 Username = username,
                 Email = email,
-                PasswordHash = hashedPassword
+                PasswordHash = hashedPassword,
+                Role = "User" // Define a role padrão como "User"
             };
 
             _context.Users.Add(user);
@@ -91,10 +92,12 @@ namespace AvalieMais.Controllers
             }
 
             var claims = new List<Claim>
-            {
-                new Claim(ClaimTypes.Name, user.Username),
-                new Claim(ClaimTypes.Email, user.Email)
-            };
+{
+    new Claim(ClaimTypes.Name, user.Username),
+    new Claim(ClaimTypes.Email, user.Email),
+    new Claim(ClaimTypes.Role, user.Role ?? "User") // Define "User" se for nulo
+};
+
 
             var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
             var principal = new ClaimsPrincipal(identity);

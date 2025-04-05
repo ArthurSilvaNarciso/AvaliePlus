@@ -7,8 +7,10 @@
     "\\Avalie\u002B\\Migrations",
     "\\Avalie\u002B\\Views",
     "\\Avalie\u002B\\Views\\Account",
-    "\\Avalie\u002B\\Views\\Home"
+    "\\Avalie\u002B\\Views\\Home",
+    "\\Avalie\u002B\\wwwroot",
+    "\\Avalie\u002B\\wwwroot\\css"
   ],
-  "SelectedNode": "\\Avalie\u002B\\Views\\Account\\Register.cshtml",
+  "SelectedNode": "\\Avalie\u002B\\wwwroot\\css\\admin.css",
   "PreviewInSolutionExplorer": false
 }

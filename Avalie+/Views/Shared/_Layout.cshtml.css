@@ -1,48 +1,134 @@
-﻿/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
-
+﻿/* Branding */
 a.navbar-brand {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
+    white-space: normal;
+    text-align: center;
+    word-break: break-word;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #004a99;
 }
 
+/* Links padrão */
 a {
-  color: #0077cc;
+    color: #0077cc;
+    text-decoration: none;
+    transition: color 0.3s ease;
 }
 
+    a:hover {
+        color: #005fa3;
+    }
+
+/* Botão primário */
 .btn-primary {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.2s;
 }
 
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+    .btn-primary:hover {
+        background-color: #155a9d;
+        transform: scale(1.03);
+    }
+
+/* Navegação ativa */
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+    font-weight: bold;
+    border-radius: 6px;
 }
 
+/* Bordas */
 .border-top {
-  border-top: 1px solid #e5e5e5;
+    border-top: 1px solid #e5e5e5;
 }
+
 .border-bottom {
-  border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
 }
 
+/* Sombra */
 .box-shadow {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, 0.1);
 }
 
+/* Botão de política */
 button.accept-policy {
-  font-size: 1rem;
-  line-height: inherit;
+    font-size: 1rem;
+    line-height: inherit;
+    padding: 10px 16px;
+    border-radius: 6px;
+    background-color: #1b6ec2;
+    color: white;
+    border: none;
+    transition: background-color 0.3s;
 }
 
+    button.accept-policy:hover {
+        background-color: #155a9d;
+    }
+
+/* Rodapé */
 .footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 60px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+    background-color: #f1f1f1;
+    color: #555;
+    text-align: center;
+    border-top: 1px solid #ddd;
+}
+
+/* ==== Botões do topo: Início e Área Administrativa ==== */
+.nav-topo a {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-left: 15px;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: #004a99;
+    border: 2px solid #004a99;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+    .nav-topo a:hover {
+        background-color: #004a99;
+        color: white;
+        transform: translateY(-2px);
+    }
+
+.nav-topo i {
+    font-size: 18px; /* Ícone maior */
+}
+
+/* Container do topo */
+.nav-topo {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+}
+
+.container-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    background-color: #e6f0ff;
+    border-bottom: 1px solid #d1e3f8;
 }

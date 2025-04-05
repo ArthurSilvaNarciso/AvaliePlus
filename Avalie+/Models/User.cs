@@ -15,5 +15,8 @@ namespace AvalieMais.Models
 
         [Required]
         public string PasswordHash { get; set; } // Senha criptografada
+
+        [Required]
+        public string Role { get; set; } // Adiciona a propriedade role
     }
 }

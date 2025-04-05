@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Painel Administrativo";
+}
+<link rel="stylesheet" href="~/css/admin.css" asp-append-version="true" />
+
+<div class="sidebar">
+    <h2 class="logo-avmais">Avalie<span>+</span></h2>
+    <ul>
+        <li><a href="#"><i class="fas fa-film"></i> 🎬 Adicionar Filmes</a></li>
+        <li><a href="#"><i class="fas fa-users"></i> 👤 Gerenciar Usuários</a></li>
+        <li><a href="#"><i class="fas fa-star"></i> ⭐ Avaliações</a></li>
+        <li><a href="#"><i class="fas fa-sign-out-alt"></i> Sair</a></li>
+    </ul>
+</div>
+
+<div class="content">
+    <!-- Botão do modo escuro -->
+   <button class="theme-toggle" id="toggleMode">🌙 Modo Escuro</button>
+
+    <header class="admin-banner">
+        <h1>Painel Administrativo</h1>
+    </header>
+
+    <main>
+        <div class="cards">
+            <div class="card bounce">
+                <i class="fas fa-film"></i>
+                <h3>Filmes</h3>
+                <p class="count">12</p>
+            </div>
+            <div class="card bounce">
+                <i class="fas fa-users"></i>
+                <h3>Usuários</h3>
+                <p class="count">108</p>
+            </div>
+            <div class="card bounce">
+                <i class="fas fa-star"></i>
+                <h3>Avaliações</h3>
+                <p class="count">432</p>
+            </div>
+        </div>
+    </main>
+</div>
+
+<!-- FontAwesome -->
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
+<script>
+    document.getElementById("toggleMode").addEventListener("click", () => {
+        document.body.classList.toggle("dark-mode");
+    });
+</script>
+

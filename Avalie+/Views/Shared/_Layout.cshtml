@@ -7,9 +7,23 @@
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <body>
-    <header>
-        <img src="~/img/av+.png" class="logo" alt="Avalie+">
-    </header>
+   <header class="topo-admin">
+    <div class="container-header">
+        <img src="~/img/av+.png" alt="Avalie+" style="width: 150px; height: auto;" />
+      <nav class="nav-topo">
+    <a href="/" class="btn-inicio">
+        🏠 Início
+    </a>
+
+                @if (User.IsInRole("Admin") && !Context.Request.Path.StartsWithSegments("/Admin"))
+                {
+            <a href="/Admin" class="btn-admin">⚙️ Área Administrativa</a>
+                }
+</nav>
+
+    </div>
+</header>
+
 
     <div class="container">
         @RenderBody() <!-- Este comando renderiza o conteúdo da view -->
